@@ -1687,45 +1687,55 @@ position: absolute;
 .munie_block1 {
     width: 1440px;
     height: 1024px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 .munie_block2 {
     display: flex;
     height: 610px;
-    width: 1440px;
+    padding-bottom: 50px;
 }
 .munie_block3 {
    height: 1000px; 
    width: 1440px;
+   padding-bottom: 50px;
 }
 .munie_block4 {
     height: 810px;
     width: 1440px;
+    padding-bottom: 50px;
 }
 .munie_block5 {
     height: 690px;
     width: 1440px; 
+    padding-bottom: 50px;
 }
 .munie_block6 {
     height: 925px;
     width: 1440px;
+    padding-bottom: 50px;
 }
 .munie_block7 {
     display: flex;
     height: 972px;
-    width: 1440px;
+    padding-bottom: 50px;
 }
 .munie_block8 {
   height: 1060px;  
   width: 1440px;
+  padding-bottom: 50px;
 }
 .munie_block9 {
     height: 892px;
     width: 1440px;
+    padding-bottom: 50px;
 }
 .munie_block10 {
     height: 1060px;
     width: 1440px;
+    padding-bottom: 50px;
 }
+
 
 /*         /MUNIE             */
 /*          CHA               */
