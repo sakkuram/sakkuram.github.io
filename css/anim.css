@@ -2,7 +2,7 @@
     opacity: 0;
     filter: blur(4px);
     transform: translateY(+30%);
-    transition: all 1s;1
+    transition: all 1s;12
 }
 
 .show {
